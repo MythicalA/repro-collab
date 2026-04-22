@@ -71,6 +71,8 @@ For each participant individually:
 2. Plot median discrimination time (y-axis) against stimulus difference in sq.mm (x-axis)
 3. Use hyperbolic coordinates to test whether the data follow the predicted reciprocal function
 
+Have 100 experimenters visually inspect data and create correlation. Repeat until correlation = 1. 
+
 ### Visual Inspection Criteria
 
 We will examine whether the data show:
